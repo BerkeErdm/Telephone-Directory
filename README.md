@@ -7,7 +7,6 @@ Introduction ;
 
 -	Completed the telephone directory project using Java-Spring Boot.. In the project, rest services, entity, models (create and update), repository, service, service implementations and finally controller were written.
 
-<img src="https://github.com/BerkeErdm/telephone-directory/blob/main/Telephone%20Directory/Pictures/Kod%20%C4%B0%C3%A7eri%C4%9Fi.png" width="auto"> 
 <img src="https://github.com/BerkeErdm/telephone-directory/blob/main/Telephone%20Directory/Pictures/Entity-2.PNG" width="auto"> 
 <img src="https://github.com/BerkeErdm/telephone-directory/blob/main/Telephone%20Directory/Pictures/Create.PNG" width="auto"> 
 <img src="https://github.com/BerkeErdm/telephone-directory/blob/main/Telephone%20Directory/Pictures/Update.PNG" width="auto"> 
