@@ -1,6 +1,6 @@
-1- ./gradlew build
-2- ./gradlew build docker
-3- docker-compose up --build
+- ./gradlew build
+- ./gradlew build docker
+- docker-compose up --build
 
 
 			
